@@ -24,7 +24,7 @@ Also it is able to toggle your notifications on and off when it is in the "focus
 
 ## Installation
 
-Download the packaged `dmg` right [mother fricking here]().
+Download the packaged `dmg` right [mother fricking here](https://github.com/Westh/tomat/releases).
 
 ## Develop
 
