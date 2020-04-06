@@ -16,7 +16,9 @@ Also it is able to toggle your notifications on and off when it is in the "focus
 
 
 
-![](show-and-tell.gif)
+<div align="center">
+  <img src="show-and-tell.gif">
+</div>
 
 
 
