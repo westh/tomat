@@ -53,3 +53,5 @@ The tomato icon used through the app is created by [Arthur Slain](https://thenou
 ## Notes
 
 The packaged app is called "Tomat" and not "tomat", this is to conform with what seems to be the standard of macOS' naming scheme.
+
+<a href="https://www.buymeacoffee.com/westh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" style="height: 40px;"></a>
